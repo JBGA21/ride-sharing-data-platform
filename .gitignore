@@ -1,0 +1,7 @@
+# Py Files
+*.py[oc]
+
+# Virtual envs
+.venv
+
+.env
